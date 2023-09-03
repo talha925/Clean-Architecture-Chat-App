@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656249586379",
+    "project_id": "clean-architecture-chat-a6264",
+    "storage_bucket": "clean-architecture-chat-a6264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656249586379:android:be47548cc80c0ec90c114e",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656249586379-nokuptqc9gmdf1cagecnfc02cmru71ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtwmexN8-64QOhdGC0z8KOLBfYllJpgs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656249586379-nokuptqc9gmdf1cagecnfc02cmru71ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
